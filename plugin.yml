@@ -1,0 +1,5 @@
+name: DeathLose
+api: 3.9.0
+version: 1.0.0
+main: deathlose\Main
+author: NTT
