@@ -3,7 +3,7 @@
 </div>
 <div align=center>
 	<a href="https://github.com/NTT1906/DeathLose">
-		<img src="https://raw.githubusercontent.com/NTT1906/DeathLose/master/logo.png">
+		<img src="https://s61.mkklcdnv61.com/mangakakalot/j1/jf921342/chapter_1/14.jpg ">
 	</a>
 	<div align=left>
 		<a href="https://discord.gg/emSrPFn">
